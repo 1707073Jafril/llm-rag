@@ -1,0 +1,11 @@
+anthropic
+chromadb
+docx
+openai
+pandas
+PyPDF2
+requests
+sentence_transformers
+typing
+
+
